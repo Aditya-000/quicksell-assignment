@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quicksell-assignment/static/css/main.e2f87cc5.css",
+    "main.js": "/quicksell-assignment/static/js/main.fd355289.js",
+    "index.html": "/quicksell-assignment/index.html",
+    "main.e2f87cc5.css.map": "/quicksell-assignment/static/css/main.e2f87cc5.css.map",
+    "main.fd355289.js.map": "/quicksell-assignment/static/js/main.fd355289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f87cc5.css",
+    "static/js/main.fd355289.js"
+  ]
+}
